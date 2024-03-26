@@ -1,0 +1,13 @@
+console.log("Hello World !!");
+console.log("Welcome to FSD58WD-T");
+var a = 10;
+var b = 20;
+var name1 = "your";
+var name2 = "world";
+console.log(a + b);
+console.log(name1 + name2);
+console.log(name1, name2);
+var num1 = 10;
+var num2 = 20;
+var num3 = 30;
+console.log(num1 + num2 + num3);
