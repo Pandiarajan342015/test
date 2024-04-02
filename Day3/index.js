@@ -1,3 +1,4 @@
+//getting output from JSON
 // var xhr = new XMLHttpRequest();
 // xhr.open("GET", "https://restcountries.com/v3.1/all", true);
 // xhr.onload = function () {
@@ -15,6 +16,8 @@
 
 // xhr.send();
 
+//
+//compare same objects in JSON
 let obj1 = { name: "person1", age: 5 };
 let obj2 = { age: 5, name: "person1" };
 function areObjectsEqual(obj1, obj2) {
